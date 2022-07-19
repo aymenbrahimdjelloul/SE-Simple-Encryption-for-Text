@@ -16,7 +16,7 @@ so if you miss one order you will get a corrupted output does not match with the
 """
 
 import sys
-from . import SHA_HASH
+import SHA_HASH
 
 
 class new:
