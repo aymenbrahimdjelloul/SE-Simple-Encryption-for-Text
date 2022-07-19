@@ -13,10 +13,14 @@ import time
 def test():
 
     # define text to encrypt and the password 'encryption KEY'
+    
+    # insert here your text that you want to encrypt
     plain_text = 'this is a plaintext to test this encryption algorithm'
+    # insert here your password
     password = "1234567890"
 
     """================= encryption ================="""
+    
     # encrypt hello world
     start_time = time.perf_counter()
 
