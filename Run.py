@@ -6,7 +6,7 @@ date : 2022.06.27
 
 """
 
-from Scripts import SE
+import SE
 import time
 
 
