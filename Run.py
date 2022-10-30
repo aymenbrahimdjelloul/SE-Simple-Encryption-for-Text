@@ -2,7 +2,7 @@
 @author : Aymen Brahim Djelloul
 date : 2022.06.27
 
-// this project is still demo so if you face any bugs please you can tell us
+    this script will run a basic test of encryption and decryption with the finish time
 
 """
 
