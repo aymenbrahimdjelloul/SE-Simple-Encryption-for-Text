@@ -1,6 +1,6 @@
 """
 @author : Aymen Brahim Djelloul
-version : 0.1 demo
+version : 0.1
 date : 2022.06.27
 
 
