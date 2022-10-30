@@ -3,8 +3,8 @@
 date : 2022.07.18
 version : 0.1
 
-// this module is for generate a random key to use it in cryptography purposes
-
+	this module is used to generate a random or custom or insane key, the last is more secure
+	with multiple digits and characters and special symbols, the generated key can be used on cryptography purposes
 
 """
 
